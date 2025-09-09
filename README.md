@@ -17,7 +17,7 @@ This tool is a complete rewrite based off my SMEncounterRNGTool with largely imp
 - [ProjectPokemon Events Gallery](https://github.com/projectpokemon/EventsGallery)
 - [NTR Helper and ID Bot Usage](https://github.com/wwwwwwzx/3DSRNGTool/wiki/NTR-Helper-Usage)
 
-## Credit
+## Credits
 
 - [Zaksabeast](https://github.com/zaksabeast), [Zep715](https://github.com/zep715), [Real96](https://github.com/Real96), [Admiral Fish](https://github.com/Admiral-Fish) and [Shiny_Sylveon](https://github.com/ShinySylveon04) for great teamworks on gen6 development  
    - Zaksabeast and Admiral Fish for building up the plugin
