@@ -11,6 +11,7 @@
     <RootNamespace>Pk3DSRNGTool</RootNamespace>
     <AssemblyName>3DSRNGTool</AssemblyName>
     <ApplicationIcon>Resources\FollowmeTogetic.ico</ApplicationIcon>
+    <EnableWindowsTargeting>true</EnableWindowsTargeting>
   </PropertyGroup>
   
   <PropertyGroup>
