@@ -1,2 +1,2 @@
 #!/bin/bash
-WINEPREFIX=$HOME/.local/share/wineprefixes/PKHeX/ wine $HOME/Git/3DSRNGTool/Build/33DSRNGTool.exe
+WINEPREFIX=$HOME/.local/share/wineprefixes/WinApps64KY/ wine $HOME/Git/3DSRNGToolKY/Build/3DSRNGTool.exe
